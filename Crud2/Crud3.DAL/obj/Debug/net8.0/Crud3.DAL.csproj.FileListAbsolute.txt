@@ -1,0 +1,16 @@
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\bin\Debug\net8.0\Crud3.DAL.deps.json
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\bin\Debug\net8.0\Crud3.DAL.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\bin\Debug\net8.0\Crud3.DAL.pdb
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\bin\Debug\net8.0\Crud3.MODELOS.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\bin\Debug\net8.0\Crud3.MODELOS.pdb
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.AssemblyInfo.cs
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.sourcelink.json
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.csproj.Up2Date
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\refint\Crud3.DAL.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\Crud3.DAL.pdb
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.DAL\obj\Debug\net8.0\ref\Crud3.DAL.dll

@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\bin\Debug\net8.0\Crud3.MODELOS.deps.json
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\bin\Debug\net8.0\Crud3.MODELOS.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\bin\Debug\net8.0\Crud3.MODELOS.pdb
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.AssemblyInfo.cs
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.sourcelink.json
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\refint\Crud3.MODELOS.dll
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\Crud3.MODELOS.pdb
+C:\Users\Kevin\Documents\CRUD3\crud3\Crud3\Crud3.MODELOS\obj\Debug\net8.0\ref\Crud3.MODELOS.dll

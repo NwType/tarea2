@@ -1,0 +1,856 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|c:\\users\\kevin\\documents\\crud2\\crud2\\crud3.vista\\clientevista\\clientelistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\agregarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\agregarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|solutionrelative:crud3.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|solutionrelative:crud3.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|solutionrelative:crud3.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|solutionrelative:crud3.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|solutionrelative:crud3.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|solutionrelative:crud33.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\pedidobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|solutionrelative:crud33.bss\\pedidobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|solutionrelative:crud33.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|solutionrelative:crud33.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\pedidosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|solutionrelative:crud3.dal\\pedidosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|solutionrelative:crud3.modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\agregarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\agregarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|solutionrelative:crud3.modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud3.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud3.MODELOS.csproj|solutionrelative:crud3.modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud3.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud3.MODELOS.csproj|solutionrelative:crud3.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|solutionrelative:crud33.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\pedidobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud33.BSS.csproj|solutionrelative:crud33.bss\\pedidobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.modelos\\crud2.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0B196AD-28E5-4CC3-9FC4-8A4A360275C5}|Crud3.MODELOS\\Crud2.MODELOS.csproj|solutionrelative:crud3.modelos\\crud2.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidolistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\editarpedidovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\pedidovista\\pedidoinsertarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\pedidovista\\pedidoinsertarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\crud2.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud2.DAL.csproj|solutionrelative:crud3.dal\\crud2.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\crud2.vista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud2.VISTA.csproj|solutionrelative:crud3.vista\\crud2.vista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|solutionrelative:crud3.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|solutionrelative:crud3.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.dal\\pedidosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3424E3-E966-4C0C-AF0C-57F19A286903}|Crud3.DAL\\Crud3.DAL.csproj|solutionrelative:crud3.dal\\pedidosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud33.bss\\crud2.bss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FDAA253-D01B-446C-B559-5C74565100B9}|Crud33.BSS\\Crud2.BSS.csproj|solutionrelative:crud33.bss\\crud2.bss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\crud3.vista\\clientevista\\clientelistarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94983C4B-E638-4391-BC42-69FF866A148C}|Crud3.VISTA\\Crud3.VISTA.csproj|solutionrelative:crud3.vista\\clientevista\\clientelistarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteListarVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:53:21.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLienteListar.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvy0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:51:55.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarCLiente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:45:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLienteListar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\CLienteListar.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\CLienteListar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\CLienteListar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:50:29.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoListarVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:14:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoListarVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:14:10.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\EditarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\EditarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:11:50.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\ClienteDal.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\ClienteDal.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\ClienteDal.cs",
+              "RelativeToolTip": "Crud3.DAL\\ClienteDal.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvzwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:42:45.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarPedidoVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:14:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Class1.cs",
+              "RelativeToolTip": "Crud3.MODELOS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:27:23.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\conexion.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\conexion.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\conexion.cs",
+              "RelativeToolTip": "Crud3.DAL\\conexion.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA2wCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:42:45.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Class1.cs",
+              "RelativeToolTip": "Crud3.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:49:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Class1.cs",
+              "RelativeToolTip": "Crud3.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:18:06.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\EditarCliente.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:36:07.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteBss.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\ClienteBss.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\ClienteBss.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\ClienteBss.cs",
+              "RelativeToolTip": "Crud33.BSS\\ClienteBss.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:15:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoBss.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\PedidoBss.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\PedidoBss.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\PedidoBss.cs",
+              "RelativeToolTip": "Crud33.BSS\\PedidoBss.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:15:19.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteListarVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:10:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditarPedidoVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:14:02.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Class1.cs",
+              "RelativeToolTip": "Crud33.BSS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:42:59.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PedidosDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\PedidosDal.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\PedidosDal.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\PedidosDal.cs",
+              "RelativeToolTip": "Crud3.DAL\\PedidosDal.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvxYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:53:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Class1.cs",
+              "RelativeToolTip": "Crud33.BSS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:47:52.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditarPedidoVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvxUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:51:03.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AgregarCLiente.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\AgregarCLiente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:03:40.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Class1.cs",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Class1.cs",
+              "RelativeToolTip": "Crud3.MODELOS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:18:58.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PedidoInsertarVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:07:23.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\cliente.cs",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\cliente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\cliente.cs",
+              "RelativeToolTip": "Crud3.MODELOS\\cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:27:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\pedido.cs",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\pedido.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\pedido.cs",
+              "RelativeToolTip": "Crud3.MODELOS\\pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:27:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Form1.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:20:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Program.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Program.cs",
+              "RelativeToolTip": "Crud3.VISTA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:51:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\cliente.cs",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\cliente.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\cliente.cs",
+              "RelativeToolTip": "Crud3.MODELOS\\cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:25:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClienteListarVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:10:47.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Program.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Program.cs",
+              "RelativeToolTip": "Crud3.VISTA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:21:30.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Form1.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:23:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClienteBss.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\ClienteBss.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\ClienteBss.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\ClienteBss.cs",
+              "RelativeToolTip": "Crud33.BSS\\ClienteBss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:48:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PedidoBss.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\PedidoBss.cs",
+              "RelativeDocumentMoniker": "Crud33.BSS\\PedidoBss.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\PedidoBss.cs",
+              "RelativeToolTip": "Crud33.BSS\\PedidoBss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:05:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Crud2.MODELOS.csproj",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Crud2.MODELOS.csproj",
+              "RelativeDocumentMoniker": "Crud3.MODELOS\\Crud2.MODELOS.csproj",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.MODELOS\\Crud2.MODELOS.csproj",
+              "RelativeToolTip": "Crud3.MODELOS\\Crud2.MODELOS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T12:20:41.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditarPedidoVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs [Design]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\EditarPedidoVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:41:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PedidoListarVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs [Design]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoListarVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:35:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PedidoInsertarVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA6wCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:07:23.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PedidoInsertarVista.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA6wCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:21:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClienteListarVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:53:05.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PedidoInsertarVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs [Design]",
+              "RelativeToolTip": "..\\..\\CRUD3\\crud3\\Crud3\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:12:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PedidoInsertarVista.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.Designer.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.Designer.cs",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:04:27.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PedidoInsertarVista.resx",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.resx",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.resx",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.resx",
+              "RelativeToolTip": "Crud3.VISTA\\PedidoVista\\PedidoInsertarVista.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-05T03:04:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CLienteListar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.Designer.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\CLienteListar.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.Designer.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\CLienteListar.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:03:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CLienteListar.resx",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.resx",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\CLienteListar.resx",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\CLienteListar.resx",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\CLienteListar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-05T03:03:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Crud2.VISTA.csproj",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Crud2.VISTA.csproj",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\Crud2.VISTA.csproj",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\Crud2.VISTA.csproj",
+              "RelativeToolTip": "Crud3.VISTA\\Crud2.VISTA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T02:42:18.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\conexion.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\conexion.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\conexion.cs",
+              "RelativeToolTip": "Crud3.DAL\\conexion.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:22:08.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ClienteDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\ClienteDal.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\ClienteDal.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\ClienteDal.cs",
+              "RelativeToolTip": "Crud3.DAL\\ClienteDal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:30:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PedidosDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\PedidosDal.cs",
+              "RelativeDocumentMoniker": "Crud3.DAL\\PedidosDal.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\PedidosDal.cs",
+              "RelativeToolTip": "Crud3.DAL\\PedidosDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:30:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Crud3.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Crud2.DAL.csproj",
+              "RelativeDocumentMoniker": "Crud3.DAL\\Crud2.DAL.csproj",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.DAL\\Crud2.DAL.csproj",
+              "RelativeToolTip": "Crud3.DAL\\Crud2.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T12:21:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Crud33.BSS.csproj",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Crud2.BSS.csproj",
+              "RelativeDocumentMoniker": "Crud33.BSS\\Crud2.BSS.csproj",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud33.BSS\\Crud2.BSS.csproj",
+              "RelativeToolTip": "Crud33.BSS\\Crud2.BSS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T12:48:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClienteListarVista.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.Designer.cs",
+              "RelativeDocumentMoniker": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\Crud2\\Crud2\\Crud3.VISTA\\ClienteVista\\ClienteListarVista.Designer.cs",
+              "RelativeToolTip": "Crud3.VISTA\\ClienteVista\\ClienteListarVista.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:27:36.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
